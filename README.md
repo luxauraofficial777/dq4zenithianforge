@@ -1,5 +1,3 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/14d12380-3c34-4931-a72d-1b72025a96bc" />
-
 <div align="center">
 
 <img width="1024" height="1024" alt="DQ4 Zenithian Forge Emblem" src="https://github.com/user-attachments/assets/14d12380-3c34-4931-a72d-1b72025a96bc" />
