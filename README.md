@@ -155,7 +155,7 @@ This suite represents hundreds of hours of low-level MIPS decompilation, CD-ROM 
   * **Manabu Yamana (山名 学)** — For his transcendent engine architecture, assembly mastery, and visionary direction at HeartBeat.
   * **Yuji Horii (堀井 雄二)** — For the timeless Zenithian saga.
   * **Akira Toriyama (鳥山 明)** & **Koichi Sugiyama (すぎやま こういち)** — Whose art and symphony gave breath to the world.
-
+    
 ---
 
 ## ⚖️ License & Legal Disclaimer
